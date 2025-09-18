@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542588670255",
+    "project_id": "rbabusattendance",
+    "storage_bucket": "rbabusattendance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542588670255:android:2d5bbe753a4512dff8d1da",
+        "android_client_info": {
+          "package_name": "com.example.rba_bus_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoD9BYMnaWYsF6evuYR-rQhQHXxYBbzok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
