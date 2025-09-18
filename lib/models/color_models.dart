@@ -9,7 +9,7 @@ class AppColors {
   static const Color secondary = red;
   
 
-  static const Color textOnPrimary = white;
+  static const Color textOnPrimary = Color.fromARGB(255, 0, 0, 0);
   
 
   static const Color textColorLight = grey;
